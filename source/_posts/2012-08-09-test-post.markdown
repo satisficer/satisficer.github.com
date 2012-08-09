@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Test Post"
+date: 2012-08-09 00:42
+comments: true
+categories: 
+---
+
+This is a test post. Delete soon.
