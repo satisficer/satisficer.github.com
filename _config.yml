@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://satisficer.github.com
-title: My Octopress Blog
+title: Octopress
 subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+author: satisficer
+simple_search: http://duckduckgo.com/
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
